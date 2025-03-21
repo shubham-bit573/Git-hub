@@ -1,7 +1,7 @@
 # Git-hub
 this is the repository, i am learning github
 <br>
-author- shubham
+author- shubham kumar 
 <br>
 <html>
 <body>
